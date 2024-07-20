@@ -1,5 +1,5 @@
 # SummerIntership2024_22IT093
-Week 1
+#Week 1
 Day -1  
 Acknowledged myself with the company 's  goal, mission and values 
 Introduced myself with the other colleagues 
@@ -19,7 +19,7 @@ Perform some tasks to apply building UI concept
 
 
 
-Week 2 
+#Week 2 
 Day 1
 Continued learning process by understanding state management 
 Day 2 
@@ -31,12 +31,12 @@ Create a small app - counter app
 Day 5 
 Continued working on the app 
  
-Week 3 
+#Week 3 
 As instructed by the senior , to inhanced the adkrity app , understand cilent requirement and research on that , based on that create a add new business screen for adkrity app throughout the week and also make changes according to senior 
  
-Week 4  
+#Week 4  
 For the sake of clients who faces the problem about app , i was assigned the task to create a support page for that also I research then prepared the design and implementate the task, then I create a app to combine both the screen into one 
 
- Week 5   
+ #Week 5   
 At last week of intership , I create an app called to do list ,it is very basic app but I learned how the whole app like adkrity is created or manage rather than creating a single screen and worked on it.
 Try to inhanced my coding skill in it
